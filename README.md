@@ -13,3 +13,5 @@ Tech Stack:
 - Streamlit
 - Plotly
 - scikit-learn
+
+DAY 1: Creating basic structure of the dashboard
