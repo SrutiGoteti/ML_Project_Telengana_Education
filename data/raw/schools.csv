@@ -1,0 +1,501 @@
+school_id,school_name,district,mandal,school_type,area_type,enrollment,boys,girls,teachers,toilets,electricity,internet,playground,library,digital_classrooms,attendance_rate,dropout_rate,infrastructure_score,teacher_student_ratio
+TS001,Residential School Utnoor,Adilabad,Utnoor,Government,Rural,963,434,529,18,Yes,Yes,Yes,Yes,No,6,94.9,1.0,89,53.5
+TS002,KGBV Chevella,Rangareddy,Chevella,Government,Urban,1220,582,638,42,Yes,Yes,Yes,Yes,Yes,4,81.3,2.7,96,29.0
+TS003,Telangana Model School Bodhan,Nizamabad,Bodhan,Government,Rural,275,142,133,35,Yes,Yes,Yes,Yes,No,7,95.1,1.0,90,7.9
+TS004,KGBV Huzurabad,Karimnagar,Huzurabad,Government,Rural,1094,522,572,55,Yes,Yes,Yes,Yes,Yes,10,75.1,3.5,100,19.9
+TS005,ZPHS Wyra,Khammam,Wyra,Aided,Urban,584,299,285,46,Yes,Yes,Yes,Yes,Yes,1,85.5,2.3,92,12.7
+TS006,ZPHS Shamshabad,Rangareddy,Shamshabad,Government,Urban,1081,525,556,12,Yes,Yes,Yes,Yes,Yes,7,88.7,1.0,100,90.1
+TS007,Govt High School Huzurabad,Karimnagar,Huzurabad,Government,Urban,327,160,167,14,Yes,Yes,No,No,No,7,75.8,5.8,70,23.4
+TS008,Residential School Boath,Adilabad,Boath,Government,Urban,622,305,317,14,Yes,Yes,Yes,Yes,No,10,77.7,3.4,95,44.4
+TS009,Govt High School Devarakonda,Nalgonda,Devarakonda,Government,Urban,885,430,455,45,Yes,Yes,Yes,Yes,Yes,10,91.6,1.0,100,19.7
+TS010,Residential School Jammikunta,Karimnagar,Jammikunta,Government,Rural,979,519,460,44,Yes,Yes,No,Yes,No,0,79.9,5.2,68,22.2
+TS011,Residential School Boath,Adilabad,Boath,Government,Rural,868,403,465,47,Yes,Yes,No,Yes,Yes,3,90.8,2.1,82,18.5
+TS012,ZPHS Palair,Khammam,Palair,Government,Rural,908,463,445,44,Yes,Yes,Yes,Yes,Yes,2,91.7,1.1,93,20.6
+TS013,MJPTBCWREIS Parkal,Warangal,Parkal,Government,Rural,616,312,304,34,Yes,Yes,No,Yes,Yes,1,82.9,3.7,80,18.1
+TS014,MJPTBCWREIS Chevella,Rangareddy,Chevella,Government,Rural,1052,561,491,30,Yes,Yes,Yes,Yes,Yes,5,74.9,3.7,98,35.1
+TS015,MJPTBCWREIS Secunderabad,Hyderabad,Secunderabad,Government,Rural,1247,646,601,53,Yes,Yes,Yes,Yes,Yes,4,82.8,2.4,96,23.5
+TS016,KGBV Suryapet,Nalgonda,Suryapet,Government,Rural,1421,733,688,16,Yes,Yes,Yes,No,Yes,8,95.4,1.0,94,88.8
+TS017,Telangana Model School Armoor,Nizamabad,Armoor,Government,Urban,375,175,200,43,Yes,Yes,Yes,Yes,No,8,81.7,2.9,92,8.7
+TS018,Residential School Parkal,Warangal,Parkal,Government,Urban,1440,716,724,46,Yes,Yes,Yes,Yes,Yes,7,74.5,3.6,100,31.3
+TS019,MJPTBCWREIS Narayanpet,Mahabubnagar,Narayanpet,Government,Urban,1394,765,629,35,Yes,Yes,Yes,Yes,No,0,86.4,3.0,80,39.8
+TS020,KGBV Kothagudem,Khammam,Kothagudem,Aided,Urban,1013,525,488,52,Yes,Yes,No,No,Yes,6,87.0,3.0,79,19.5
+TS021,KGBV Boath,Adilabad,Boath,Government,Urban,1005,463,542,31,Yes,Yes,Yes,Yes,Yes,7,76.1,3.3,100,32.4
+TS022,ZPHS Palair,Khammam,Palair,Private,Urban,1269,575,694,28,Yes,Yes,Yes,Yes,Yes,2,86.5,2.0,93,45.3
+TS023,KGBV Wyra,Khammam,Wyra,Private,Rural,416,200,216,31,Yes,Yes,Yes,Yes,Yes,5,87.8,1.4,98,13.4
+TS024,KGBV Shadnagar,Mahabubnagar,Shadnagar,Aided,Rural,456,207,249,20,Yes,Yes,Yes,Yes,Yes,4,97.2,1.0,96,22.8
+TS025,Residential School Jammikunta,Karimnagar,Jammikunta,Private,Urban,1401,680,721,33,Yes,Yes,Yes,Yes,Yes,1,74.5,4.2,92,42.5
+TS026,Residential School Armoor,Nizamabad,Armoor,Government,Urban,1191,582,609,22,Yes,Yes,Yes,No,Yes,3,90.0,1.9,86,54.1
+TS027,Govt High School Shamshabad,Rangareddy,Shamshabad,Government,Urban,1426,749,677,42,Yes,Yes,Yes,Yes,Yes,2,96.3,1.0,93,34.0
+TS028,Telangana Model School Toopran,Medak,Toopran,Government,Urban,661,334,327,27,Yes,Yes,Yes,No,Yes,8,89.0,1.5,94,24.5
+TS029,MJPTBCWREIS Nirmal,Adilabad,Nirmal,Private,Urban,1273,699,574,28,Yes,Yes,Yes,Yes,Yes,3,86.7,1.9,94,45.5
+TS030,Telangana Model School Parkal,Warangal,Parkal,Government,Urban,1204,597,607,47,Yes,Yes,No,Yes,Yes,1,78.0,4.6,80,25.6
+TS031,Govt High School Amberpet,Hyderabad,Amberpet,Government,Rural,1393,755,638,30,Yes,Yes,No,Yes,Yes,0,92.9,2.0,78,46.4
+TS032,KGBV Utnoor,Adilabad,Utnoor,Aided,Rural,461,214,247,42,Yes,Yes,No,No,Yes,5,78.3,4.7,78,11.0
+TS033,Telangana Model School Shadnagar,Mahabubnagar,Shadnagar,Private,Urban,980,443,537,34,Yes,Yes,Yes,No,Yes,4,77.5,4.0,88,28.8
+TS034,KGBV Boath,Adilabad,Boath,Aided,Rural,1373,690,683,45,Yes,No,Yes,Yes,Yes,1,94.0,1.5,82,30.5
+TS035,MJPTBCWREIS Kothagudem,Khammam,Kothagudem,Aided,Rural,1090,587,503,33,Yes,Yes,No,Yes,Yes,0,95.4,1.6,78,33.0
+TS036,ZPHS Boath,Adilabad,Boath,Government,Rural,355,162,193,33,Yes,Yes,Yes,Yes,Yes,3,91.9,1.0,94,10.8
+TS037,MJPTBCWREIS Kothagudem,Khammam,Kothagudem,Government,Rural,520,264,256,41,Yes,Yes,No,Yes,Yes,6,78.6,3.9,87,12.7
+TS038,MJPTBCWREIS Jadcherla,Mahabubnagar,Jadcherla,Government,Urban,990,451,539,49,Yes,No,No,No,Yes,10,93.5,2.2,75,20.2
+TS039,Telangana Model School Suryapet,Nalgonda,Suryapet,Government,Urban,656,340,316,45,Yes,Yes,Yes,Yes,Yes,10,73.4,3.8,100,14.6
+TS040,KGBV Hanamkonda,Warangal,Hanamkonda,Private,Rural,981,477,504,40,Yes,Yes,Yes,Yes,Yes,4,79.7,3.0,96,24.5
+TS041,KGBV Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Aided,Rural,893,449,444,33,Yes,No,Yes,Yes,Yes,1,82.2,3.6,82,27.1
+TS042,Govt High School Amberpet,Hyderabad,Amberpet,Government,Rural,1152,566,586,24,Yes,Yes,Yes,Yes,No,0,91.8,2.1,80,48.0
+TS043,Telangana Model School Jammikunta,Karimnagar,Jammikunta,Government,Rural,731,360,371,19,Yes,Yes,Yes,Yes,Yes,4,89.1,1.3,96,38.5
+TS044,KGBV Armoor,Nizamabad,Armoor,Aided,Rural,880,439,441,51,Yes,Yes,Yes,Yes,Yes,8,93.1,1.0,100,17.3
+TS045,ZPHS Jammikunta,Karimnagar,Jammikunta,Private,Rural,1269,572,697,38,Yes,Yes,Yes,Yes,No,0,83.5,3.6,80,33.4
+TS046,MJPTBCWREIS Narayanpet,Mahabubnagar,Narayanpet,Government,Rural,261,120,141,9,Yes,Yes,No,Yes,Yes,5,77.1,4.2,86,29.0
+TS047,MJPTBCWREIS Sangareddy,Medak,Sangareddy,Government,Urban,1439,757,682,27,Yes,Yes,Yes,Yes,Yes,8,76.7,3.2,100,53.3
+TS048,KGBV Kazipet,Warangal,Kazipet,Government,Urban,883,397,486,8,Yes,Yes,No,Yes,Yes,1,92.1,2.0,80,110.4
+TS049,Govt High School Bheemgal,Nizamabad,Bheemgal,Private,Urban,625,324,301,38,Yes,Yes,Yes,Yes,No,3,76.5,4.5,84,16.4
+TS050,MJPTBCWREIS Bodhan,Nizamabad,Bodhan,Government,Urban,699,350,349,21,Yes,No,Yes,Yes,Yes,0,78.8,4.4,80,33.3
+TS051,Telangana Model School Hanamkonda,Warangal,Hanamkonda,Government,Urban,1496,681,815,43,Yes,Yes,Yes,Yes,Yes,7,88.8,1.0,100,34.8
+TS052,Telangana Model School Chevella,Rangareddy,Chevella,Private,Rural,1146,598,548,40,Yes,Yes,Yes,Yes,No,2,83.6,3.3,83,28.6
+TS053,Telangana Model School Utnoor,Adilabad,Utnoor,Government,Urban,673,343,330,48,Yes,Yes,No,Yes,Yes,1,92.1,2.0,80,14.0
+TS054,ZPHS Shamshabad,Rangareddy,Shamshabad,Government,Urban,752,407,345,50,Yes,Yes,Yes,Yes,Yes,3,88.4,1.6,94,15.0
+TS055,Govt High School Miryalaguda,Nalgonda,Miryalaguda,Government,Rural,1366,660,706,43,Yes,Yes,Yes,No,No,8,81.2,3.7,84,31.8
+TS056,Residential School Jadcherla,Mahabubnagar,Jadcherla,Private,Urban,1084,515,569,52,Yes,Yes,Yes,Yes,Yes,2,93.6,1.0,93,20.8
+TS057,Telangana Model School Miryalaguda,Nalgonda,Miryalaguda,Private,Rural,1300,632,668,12,Yes,No,Yes,Yes,Yes,4,87.0,2.5,86,108.3
+TS058,Govt High School Bodhan,Nizamabad,Bodhan,Government,Rural,439,204,235,22,Yes,Yes,Yes,Yes,No,10,86.2,1.9,95,20.0
+TS059,Residential School Shamshabad,Rangareddy,Shamshabad,Government,Urban,470,212,258,52,Yes,Yes,Yes,Yes,Yes,8,81.7,2.3,100,9.0
+TS060,ZPHS Shamshabad,Rangareddy,Shamshabad,Government,Rural,366,165,201,38,Yes,Yes,Yes,Yes,Yes,3,95.7,1.0,94,9.6
+TS061,MJPTBCWREIS Devarakonda,Nalgonda,Devarakonda,Private,Rural,656,360,296,28,Yes,Yes,Yes,Yes,Yes,10,77.5,3.1,100,23.4
+TS062,KGBV Chevella,Rangareddy,Chevella,Private,Urban,1414,672,742,42,Yes,Yes,No,Yes,No,7,80.1,4.3,78,33.7
+TS063,Residential School Sangareddy,Medak,Sangareddy,Government,Urban,406,222,184,31,Yes,No,Yes,Yes,Yes,1,90.8,2.1,82,13.1
+TS064,Govt High School Huzurabad,Karimnagar,Huzurabad,Private,Urban,552,297,255,11,Yes,Yes,Yes,No,Yes,7,83.1,2.7,92,50.2
+TS065,Residential School Shamshabad,Rangareddy,Shamshabad,Government,Rural,1451,784,667,49,Yes,Yes,No,Yes,Yes,10,93.5,1.0,93,29.6
+TS066,Residential School Nirmal,Adilabad,Nirmal,Government,Urban,1273,634,639,26,Yes,Yes,Yes,Yes,Yes,7,76.8,3.2,100,49.0
+TS067,KGBV Narayanpet,Mahabubnagar,Narayanpet,Government,Urban,664,346,318,31,Yes,Yes,Yes,Yes,Yes,5,77.1,3.3,98,21.4
+TS068,KGBV Manakondur,Karimnagar,Manakondur,Government,Urban,1205,657,548,32,Yes,Yes,Yes,Yes,Yes,5,77.9,3.1,98,37.7
+TS069,Govt High School Chevella,Rangareddy,Chevella,Government,Rural,723,328,395,55,Yes,Yes,Yes,Yes,No,8,91.7,1.1,92,13.1
+TS070,Telangana Model School Huzurabad,Karimnagar,Huzurabad,Private,Urban,1450,667,783,53,Yes,Yes,No,Yes,Yes,4,82.3,3.5,84,27.4
+TS071,ZPHS Kazipet,Warangal,Kazipet,Government,Urban,348,178,170,42,Yes,Yes,Yes,Yes,No,2,73.5,5.1,83,8.3
+TS072,KGBV Toopran,Medak,Toopran,Aided,Urban,1462,746,716,43,Yes,Yes,No,Yes,Yes,10,93.5,1.0,93,34.0
+TS073,Residential School Bheemgal,Nizamabad,Bheemgal,Aided,Urban,1328,639,689,49,Yes,Yes,Yes,Yes,No,4,89.4,2.0,86,27.1
+TS074,ZPHS Hanamkonda,Warangal,Hanamkonda,Government,Urban,989,521,468,13,Yes,Yes,No,Yes,Yes,2,71.4,5.7,81,76.1
+TS075,Govt High School Kothagudem,Khammam,Kothagudem,Government,Rural,880,418,462,52,Yes,Yes,Yes,Yes,Yes,7,82.9,2.1,100,16.9
+TS076,MJPTBCWREIS Manakondur,Karimnagar,Manakondur,Private,Urban,383,195,188,13,Yes,Yes,No,Yes,Yes,4,95.9,1.0,84,29.5
+TS077,Residential School Huzurabad,Karimnagar,Huzurabad,Government,Rural,610,322,288,36,Yes,Yes,Yes,Yes,Yes,4,77.2,3.4,96,16.9
+TS078,ZPHS Amberpet,Hyderabad,Amberpet,Private,Urban,532,278,254,55,Yes,Yes,Yes,Yes,Yes,0,73.9,4.5,90,9.7
+TS079,KGBV Nirmal,Adilabad,Nirmal,Private,Urban,447,229,218,20,Yes,Yes,Yes,Yes,Yes,8,78.3,2.9,100,22.4
+TS080,MJPTBCWREIS Toopran,Medak,Toopran,Government,Urban,975,522,453,47,Yes,Yes,Yes,Yes,Yes,5,81.6,2.5,98,20.7
+TS081,Residential School Shadnagar,Mahabubnagar,Shadnagar,Government,Urban,661,305,356,12,Yes,Yes,Yes,No,Yes,7,74.6,4.2,92,55.1
+TS082,Residential School Sangareddy,Medak,Sangareddy,Private,Urban,489,266,223,28,Yes,Yes,Yes,No,No,6,95.7,1.3,81,17.5
+TS083,Telangana Model School Kothagudem,Khammam,Kothagudem,Government,Rural,1438,716,722,23,Yes,Yes,Yes,Yes,Yes,9,90.1,1.0,100,62.5
+TS084,ZPHS Sangareddy,Medak,Sangareddy,Government,Rural,550,288,262,15,Yes,Yes,Yes,Yes,Yes,3,88.6,1.5,94,36.7
+TS085,ZPHS Shadnagar,Mahabubnagar,Shadnagar,Government,Rural,1137,590,547,46,Yes,Yes,Yes,Yes,No,2,87.3,2.6,83,24.7
+TS086,Govt High School Devarakonda,Nalgonda,Devarakonda,Government,Rural,1154,566,588,32,Yes,Yes,Yes,Yes,No,8,86.4,2.1,92,36.1
+TS087,Govt High School Toopran,Medak,Toopran,Government,Rural,1457,704,753,29,Yes,Yes,Yes,Yes,Yes,6,82.3,2.3,99,50.2
+TS088,MJPTBCWREIS Utnoor,Adilabad,Utnoor,Government,Urban,268,137,131,11,Yes,Yes,Yes,Yes,Yes,3,82.0,2.7,94,24.4
+TS089,MJPTBCWREIS Jammikunta,Karimnagar,Jammikunta,Private,Rural,1203,588,615,53,Yes,Yes,Yes,Yes,No,4,93.7,1.3,86,22.7
+TS090,KGBV Wyra,Khammam,Wyra,Private,Urban,378,204,174,38,Yes,Yes,Yes,No,Yes,3,94.8,1.1,86,9.9
+TS091,MJPTBCWREIS Jadcherla,Mahabubnagar,Jadcherla,Government,Urban,939,465,474,11,Yes,Yes,Yes,Yes,Yes,2,74.7,4.1,93,85.4
+TS092,Telangana Model School Suryapet,Nalgonda,Suryapet,Government,Rural,1316,638,678,32,Yes,Yes,Yes,Yes,No,10,95.8,1.0,95,41.1
+TS093,KGBV Jammikunta,Karimnagar,Jammikunta,Government,Rural,345,189,156,27,Yes,Yes,Yes,Yes,No,3,91.0,1.9,84,12.8
+TS094,Telangana Model School Shamshabad,Rangareddy,Shamshabad,Government,Rural,271,142,129,55,Yes,Yes,Yes,Yes,Yes,5,90.0,1.0,98,4.9
+TS095,MJPTBCWREIS Hanamkonda,Warangal,Hanamkonda,Government,Urban,773,396,377,55,Yes,Yes,Yes,Yes,Yes,1,91.2,1.2,92,14.1
+TS096,Residential School Kazipet,Warangal,Kazipet,Government,Urban,647,330,317,53,Yes,Yes,No,Yes,No,7,84.0,3.6,78,12.2
+TS097,Telangana Model School Kothagudem,Khammam,Kothagudem,Aided,Urban,1260,614,646,47,Yes,Yes,Yes,Yes,Yes,9,90.2,1.0,100,26.8
+TS098,Govt High School Parkal,Warangal,Parkal,Government,Rural,938,424,514,28,Yes,Yes,Yes,Yes,Yes,4,74.0,4.0,96,33.5
+TS099,Telangana Model School Utnoor,Adilabad,Utnoor,Private,Urban,1286,691,595,36,Yes,Yes,Yes,Yes,Yes,9,92.2,1.0,100,35.7
+TS100,MJPTBCWREIS Narayanpet,Mahabubnagar,Narayanpet,Private,Urban,966,443,523,23,Yes,Yes,Yes,Yes,Yes,3,89.4,1.4,94,42.0
+TS101,ZPHS Miryalaguda,Nalgonda,Miryalaguda,Private,Urban,1172,558,614,8,Yes,Yes,No,Yes,Yes,6,80.0,3.6,87,146.5
+TS102,Telangana Model School Suryapet,Nalgonda,Suryapet,Government,Rural,570,307,263,39,Yes,Yes,Yes,Yes,No,9,83.4,2.5,94,14.6
+TS103,KGBV Sangareddy,Medak,Sangareddy,Government,Urban,328,156,172,55,Yes,Yes,Yes,No,Yes,9,94.3,1.0,96,6.0
+TS104,MJPTBCWREIS Toopran,Medak,Toopran,Government,Rural,1279,590,689,25,Yes,Yes,No,Yes,Yes,1,92.2,2.0,80,51.2
+TS105,Govt High School Bodhan,Nizamabad,Bodhan,Aided,Urban,619,318,301,16,Yes,Yes,Yes,Yes,Yes,6,97.0,1.0,99,38.7
+TS106,ZPHS Kothagudem,Khammam,Kothagudem,Aided,Rural,439,197,242,39,Yes,Yes,Yes,No,No,10,92.3,1.4,87,11.3
+TS107,Govt High School Kothagudem,Khammam,Kothagudem,Government,Urban,710,385,325,47,Yes,Yes,Yes,Yes,No,10,89.5,1.3,95,15.1
+TS108,ZPHS Jammikunta,Karimnagar,Jammikunta,Government,Urban,1398,684,714,14,Yes,Yes,Yes,Yes,Yes,1,92.1,1.1,92,99.9
+TS109,Residential School Suryapet,Nalgonda,Suryapet,Government,Urban,1046,494,552,45,Yes,Yes,Yes,Yes,No,6,95.8,1.0,89,23.2
+TS110,ZPHS Chevella,Rangareddy,Chevella,Government,Urban,1470,796,674,36,Yes,Yes,Yes,Yes,Yes,2,88.5,1.6,93,40.8
+TS111,Residential School Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Government,Urban,719,380,339,55,Yes,Yes,Yes,Yes,Yes,6,96.5,1.0,99,13.1
+TS112,KGBV Jadcherla,Mahabubnagar,Jadcherla,Government,Urban,1498,777,721,32,Yes,Yes,Yes,No,Yes,10,73.8,4.0,97,46.8
+TS113,KGBV Narsapur,Medak,Narsapur,Government,Urban,994,519,475,12,Yes,Yes,No,No,Yes,10,84.2,3.0,85,82.8
+TS114,Govt High School Chevella,Rangareddy,Chevella,Government,Rural,855,438,417,40,Yes,Yes,Yes,Yes,Yes,10,85.6,1.6,100,21.4
+TS115,Govt High School Kazipet,Warangal,Kazipet,Government,Urban,1496,765,731,13,Yes,Yes,Yes,Yes,No,5,73.1,4.8,88,115.1
+TS116,Govt High School Huzurabad,Karimnagar,Huzurabad,Government,Urban,576,261,315,54,Yes,Yes,Yes,Yes,Yes,1,92.0,1.1,92,10.7
+TS117,KGBV Shamshabad,Rangareddy,Shamshabad,Government,Urban,793,400,393,37,Yes,Yes,No,Yes,Yes,6,82.3,3.2,87,21.4
+TS118,MJPTBCWREIS Secunderabad,Hyderabad,Secunderabad,Private,Urban,821,388,433,11,Yes,Yes,Yes,Yes,Yes,6,83.1,2.1,99,74.6
+TS119,Govt High School Nirmal,Adilabad,Nirmal,Private,Rural,1227,609,618,21,Yes,Yes,Yes,Yes,No,9,87.1,1.8,94,58.4
+TS120,MJPTBCWREIS Narayanpet,Mahabubnagar,Narayanpet,Private,Rural,402,218,184,9,Yes,No,Yes,Yes,Yes,5,72.3,4.9,88,44.7
+TS121,Govt High School Chevella,Rangareddy,Chevella,Government,Urban,880,416,464,38,Yes,Yes,Yes,Yes,Yes,5,79.6,2.8,98,23.2
+TS122,MJPTBCWREIS Wyra,Khammam,Wyra,Government,Urban,561,284,277,33,Yes,Yes,Yes,Yes,Yes,0,76.6,4.0,90,17.0
+TS123,MJPTBCWREIS Huzurabad,Karimnagar,Huzurabad,Government,Urban,1228,661,567,20,Yes,No,Yes,Yes,No,3,78.3,5.0,74,61.4
+TS124,KGBV Jadcherla,Mahabubnagar,Jadcherla,Aided,Urban,1167,628,539,11,Yes,Yes,No,Yes,Yes,4,72.7,5.2,84,106.1
+TS125,KGBV Devarakonda,Nalgonda,Devarakonda,Government,Urban,559,259,300,45,Yes,Yes,Yes,Yes,Yes,0,82.1,3.0,90,12.4
+TS126,KGBV Huzurabad,Karimnagar,Huzurabad,Government,Urban,309,165,144,29,Yes,Yes,No,Yes,Yes,10,73.1,4.4,93,10.7
+TS127,Residential School Palair,Khammam,Palair,Aided,Rural,902,459,443,17,Yes,Yes,No,Yes,No,8,91.9,2.1,80,53.1
+TS128,KGBV Toopran,Medak,Toopran,Government,Urban,1450,783,667,43,Yes,Yes,Yes,Yes,No,7,72.5,4.8,90,33.7
+TS129,KGBV Manakondur,Karimnagar,Manakondur,Government,Urban,1209,626,583,45,Yes,Yes,No,Yes,Yes,2,83.5,3.5,81,26.9
+TS130,Govt High School Amberpet,Hyderabad,Amberpet,Private,Urban,971,467,504,24,Yes,Yes,Yes,No,No,9,93.5,1.3,86,40.5
+TS131,Residential School Nirmal,Adilabad,Nirmal,Government,Urban,1364,735,629,46,Yes,Yes,No,Yes,No,6,90.6,2.5,77,29.7
+TS132,ZPHS Shamshabad,Rangareddy,Shamshabad,Government,Urban,450,239,211,23,Yes,Yes,No,Yes,Yes,10,75.6,4.0,93,19.6
+TS133,ZPHS Shamshabad,Rangareddy,Shamshabad,Private,Urban,1204,623,581,27,Yes,Yes,Yes,Yes,Yes,8,83.6,2.0,100,44.6
+TS134,MJPTBCWREIS Boath,Adilabad,Boath,Government,Rural,1380,664,716,26,Yes,No,Yes,Yes,Yes,5,96.1,1.0,88,53.1
+TS135,MJPTBCWREIS Secunderabad,Hyderabad,Secunderabad,Government,Rural,754,363,391,27,Yes,Yes,Yes,Yes,Yes,6,93.4,1.0,99,27.9
+TS136,Telangana Model School Huzurabad,Karimnagar,Huzurabad,Aided,Rural,896,483,413,24,Yes,Yes,Yes,No,Yes,10,79.4,2.9,97,37.3
+TS137,KGBV Toopran,Medak,Toopran,Government,Urban,511,258,253,30,Yes,Yes,Yes,Yes,Yes,4,85.0,2.0,96,17.0
+TS138,KGBV Parkal,Warangal,Parkal,Aided,Rural,1276,694,582,29,Yes,Yes,Yes,No,Yes,5,88.2,1.9,90,44.0
+TS139,Govt High School Kazipet,Warangal,Kazipet,Government,Rural,581,266,315,39,Yes,Yes,Yes,Yes,Yes,10,82.7,2.1,100,14.9
+TS140,MJPTBCWREIS Narsapur,Medak,Narsapur,Private,Urban,748,399,349,33,Yes,Yes,Yes,Yes,Yes,5,84.1,2.0,98,22.7
+TS141,ZPHS Bodhan,Nizamabad,Bodhan,Government,Urban,909,460,449,21,Yes,Yes,Yes,No,Yes,10,88.3,1.3,97,43.3
+TS142,Telangana Model School Boath,Adilabad,Boath,Aided,Rural,270,135,135,46,Yes,Yes,No,Yes,Yes,5,89.6,2.0,86,5.9
+TS143,Residential School Palair,Khammam,Palair,Government,Rural,1002,551,451,27,Yes,Yes,Yes,Yes,Yes,1,88.2,1.8,92,37.1
+TS144,MJPTBCWREIS Toopran,Medak,Toopran,Government,Urban,337,175,162,54,Yes,Yes,Yes,Yes,Yes,7,84.0,1.9,100,6.2
+TS145,Govt High School Chevella,Rangareddy,Chevella,Private,Urban,554,296,258,22,Yes,No,Yes,Yes,Yes,1,93.7,1.6,82,25.2
+TS146,ZPHS Charminar,Hyderabad,Charminar,Government,Urban,859,469,390,53,Yes,Yes,Yes,No,No,4,82.4,3.9,78,16.2
+TS147,KGBV Hanamkonda,Warangal,Hanamkonda,Aided,Urban,548,296,252,45,Yes,Yes,No,Yes,No,9,83.5,3.4,82,12.2
+TS148,Telangana Model School Miryalaguda,Nalgonda,Miryalaguda,Private,Urban,329,177,152,22,Yes,Yes,Yes,Yes,Yes,10,91.9,1.0,100,15.0
+TS149,Telangana Model School Narsapur,Medak,Narsapur,Aided,Urban,959,434,525,23,Yes,Yes,No,Yes,No,6,86.3,3.3,77,41.7
+TS150,Govt High School Manakondur,Karimnagar,Manakondur,Aided,Rural,970,504,466,11,Yes,No,Yes,Yes,Yes,2,86.3,2.8,83,88.2
+TS151,KGBV Amberpet,Hyderabad,Amberpet,Government,Urban,864,409,455,51,Yes,Yes,Yes,Yes,No,8,73.0,4.5,92,16.9
+TS152,MJPTBCWREIS Chevella,Rangareddy,Chevella,Government,Rural,1168,531,637,9,Yes,Yes,No,Yes,Yes,5,76.7,4.3,86,129.8
+TS153,Telangana Model School Secunderabad,Hyderabad,Secunderabad,Government,Urban,628,298,330,10,Yes,Yes,Yes,Yes,Yes,2,93.4,1.0,93,62.8
+TS154,MJPTBCWREIS Shadnagar,Mahabubnagar,Shadnagar,Government,Urban,1204,616,588,25,Yes,Yes,Yes,No,Yes,8,84.2,2.3,94,48.2
+TS155,ZPHS Suryapet,Nalgonda,Suryapet,Government,Rural,709,334,375,45,Yes,Yes,No,Yes,Yes,0,83.6,3.7,78,15.8
+TS156,KGBV Hanamkonda,Warangal,Hanamkonda,Government,Rural,345,175,170,19,Yes,Yes,Yes,Yes,Yes,9,91.2,1.0,100,18.2
+TS157,ZPHS Devarakonda,Nalgonda,Devarakonda,Government,Urban,970,440,530,12,Yes,Yes,Yes,Yes,Yes,1,76.0,4.0,92,80.8
+TS158,Govt High School Amberpet,Hyderabad,Amberpet,Government,Urban,1492,765,727,41,Yes,Yes,No,Yes,Yes,6,95.0,1.0,87,36.4
+TS159,KGBV Jadcherla,Mahabubnagar,Jadcherla,Government,Urban,1093,571,522,35,Yes,Yes,Yes,Yes,Yes,1,74.1,4.3,92,31.2
+TS160,KGBV Armoor,Nizamabad,Armoor,Government,Urban,795,363,432,14,Yes,Yes,Yes,Yes,Yes,7,85.9,1.5,100,56.8
+TS161,ZPHS Hanamkonda,Warangal,Hanamkonda,Private,Urban,430,196,234,9,Yes,Yes,No,No,Yes,0,75.1,5.9,70,47.8
+TS162,Residential School Miryalaguda,Nalgonda,Miryalaguda,Private,Urban,1025,543,482,9,Yes,Yes,Yes,No,Yes,10,84.6,2.0,97,113.9
+TS163,MJPTBCWREIS Armoor,Nizamabad,Armoor,Private,Rural,1167,577,590,23,Yes,Yes,Yes,Yes,Yes,2,90.8,1.2,93,50.7
+TS164,Residential School Miryalaguda,Nalgonda,Miryalaguda,Aided,Rural,580,284,296,18,Yes,Yes,Yes,Yes,Yes,8,82.0,2.2,100,32.2
+TS165,ZPHS Secunderabad,Hyderabad,Secunderabad,Government,Urban,1309,626,683,53,Yes,Yes,Yes,Yes,Yes,7,96.1,1.0,100,24.7
+TS166,ZPHS Miryalaguda,Nalgonda,Miryalaguda,Private,Urban,1220,593,627,49,Yes,Yes,Yes,Yes,Yes,2,86.8,1.9,93,24.9
+TS167,MJPTBCWREIS Bheemgal,Nizamabad,Bheemgal,Government,Urban,271,126,145,17,Yes,Yes,Yes,Yes,Yes,1,83.3,2.6,92,15.9
+TS168,ZPHS Amberpet,Hyderabad,Amberpet,Government,Urban,971,476,495,38,Yes,Yes,No,No,Yes,9,72.2,5.3,84,25.6
+TS169,Govt High School Chevella,Rangareddy,Chevella,Government,Urban,490,239,251,39,Yes,Yes,No,No,Yes,5,74.0,5.4,78,12.6
+TS170,ZPHS Shadnagar,Mahabubnagar,Shadnagar,Government,Rural,1493,810,683,18,Yes,Yes,Yes,Yes,Yes,9,76.3,3.3,100,82.9
+TS171,KGBV Narayanpet,Mahabubnagar,Narayanpet,Private,Urban,707,382,325,30,Yes,Yes,Yes,Yes,Yes,7,92.7,1.0,100,23.6
+TS172,MJPTBCWREIS Palair,Khammam,Palair,Aided,Urban,1473,781,692,24,Yes,Yes,Yes,No,No,3,90.4,2.6,76,61.4
+TS173,MJPTBCWREIS Wyra,Khammam,Wyra,Government,Urban,469,229,240,9,Yes,Yes,No,Yes,Yes,1,75.5,5.0,80,52.1
+TS174,KGBV Palair,Khammam,Palair,Private,Urban,1324,652,672,19,Yes,Yes,Yes,Yes,Yes,7,85.0,1.7,100,69.7
+TS175,ZPHS Charminar,Hyderabad,Charminar,Government,Rural,1134,565,569,53,Yes,Yes,Yes,Yes,Yes,2,75.1,4.0,93,21.4
+TS176,Govt High School Toopran,Medak,Toopran,Government,Rural,288,153,135,22,Yes,Yes,No,Yes,No,2,80.4,4.8,71,13.1
+TS177,MJPTBCWREIS Charminar,Hyderabad,Charminar,Government,Urban,1061,569,492,31,Yes,Yes,No,Yes,Yes,0,94.3,1.8,78,34.2
+TS178,Telangana Model School Devarakonda,Nalgonda,Devarakonda,Private,Urban,1238,559,679,24,Yes,Yes,Yes,Yes,Yes,4,94.7,1.0,96,51.6
+TS179,MJPTBCWREIS Narsapur,Medak,Narsapur,Government,Rural,466,253,213,20,Yes,Yes,Yes,No,Yes,10,88.7,1.3,97,23.3
+TS180,Govt High School Wyra,Khammam,Wyra,Private,Urban,1261,619,642,22,Yes,Yes,No,Yes,No,2,88.3,3.4,71,57.3
+TS181,MJPTBCWREIS Wyra,Khammam,Wyra,Private,Urban,1469,794,675,51,Yes,Yes,No,Yes,Yes,8,79.0,3.6,90,28.8
+TS182,Residential School Bodhan,Nizamabad,Bodhan,Private,Rural,752,372,380,37,Yes,Yes,No,Yes,No,0,84.8,4.3,68,20.3
+TS183,Govt High School Parkal,Warangal,Parkal,Government,Rural,894,474,420,39,Yes,Yes,Yes,No,Yes,4,72.6,4.9,88,22.9
+TS184,Telangana Model School Chevella,Rangareddy,Chevella,Government,Urban,808,441,367,28,Yes,Yes,Yes,Yes,No,7,88.2,1.9,90,28.9
+TS185,Govt High School Manakondur,Karimnagar,Manakondur,Government,Rural,838,425,413,43,Yes,Yes,No,Yes,Yes,7,75.5,4.4,88,19.5
+TS186,MJPTBCWREIS Huzurabad,Karimnagar,Huzurabad,Government,Urban,740,363,377,27,Yes,Yes,Yes,Yes,Yes,2,84.0,2.4,93,27.4
+TS187,Govt High School Boath,Adilabad,Boath,Government,Rural,1085,500,585,22,Yes,Yes,No,Yes,Yes,9,73.4,4.4,92,49.3
+TS188,ZPHS Wyra,Khammam,Wyra,Government,Rural,777,409,368,25,Yes,Yes,Yes,Yes,Yes,8,80.6,2.5,100,31.1
+TS189,Telangana Model School Shadnagar,Mahabubnagar,Shadnagar,Government,Urban,947,490,457,15,Yes,Yes,No,Yes,Yes,3,81.0,3.9,82,63.1
+TS190,Telangana Model School Parkal,Warangal,Parkal,Government,Urban,1074,491,583,20,Yes,Yes,Yes,Yes,Yes,0,77.6,3.8,90,53.7
+TS191,Telangana Model School Narayanpet,Mahabubnagar,Narayanpet,Government,Urban,1075,526,549,40,Yes,Yes,Yes,No,Yes,5,95.5,1.0,90,26.9
+TS192,ZPHS Utnoor,Adilabad,Utnoor,Private,Rural,1019,530,489,25,Yes,Yes,Yes,No,Yes,4,81.4,3.3,88,40.8
+TS193,MJPTBCWREIS Secunderabad,Hyderabad,Secunderabad,Private,Urban,1377,727,650,40,Yes,Yes,Yes,Yes,Yes,6,73.8,3.8,99,34.4
+TS194,ZPHS Hanamkonda,Warangal,Hanamkonda,Aided,Rural,1327,697,630,45,Yes,Yes,Yes,Yes,Yes,8,74.7,3.6,100,29.5
+TS195,Telangana Model School Kazipet,Warangal,Kazipet,Private,Rural,1113,542,571,36,Yes,Yes,Yes,No,Yes,9,92.0,1.0,96,30.9
+TS196,Residential School Shamshabad,Rangareddy,Shamshabad,Aided,Rural,890,414,476,11,Yes,Yes,Yes,Yes,Yes,5,81.0,2.6,98,80.9
+TS197,MJPTBCWREIS Miryalaguda,Nalgonda,Miryalaguda,Government,Rural,580,305,275,51,Yes,Yes,Yes,No,Yes,1,72.3,5.3,84,11.4
+TS198,Residential School Miryalaguda,Nalgonda,Miryalaguda,Government,Rural,659,353,306,20,Yes,No,Yes,Yes,Yes,9,75.8,3.8,94,33.0
+TS199,MJPTBCWREIS Palair,Khammam,Palair,Aided,Urban,829,423,406,47,Yes,Yes,Yes,Yes,No,5,82.8,3.1,88,17.6
+TS200,KGBV Secunderabad,Hyderabad,Secunderabad,Private,Urban,1140,542,598,53,Yes,No,No,Yes,Yes,7,86.6,3.2,78,21.5
+TS201,MJPTBCWREIS Hanamkonda,Warangal,Hanamkonda,Government,Urban,1300,621,679,51,Yes,Yes,Yes,Yes,Yes,3,91.1,1.1,94,25.5
+TS202,MJPTBCWREIS Amberpet,Hyderabad,Amberpet,Private,Urban,1362,627,735,16,Yes,No,Yes,Yes,Yes,1,85.6,3.0,82,85.1
+TS203,Govt High School Kazipet,Warangal,Kazipet,Government,Rural,1285,701,584,11,Yes,Yes,No,No,Yes,0,94.4,2.4,70,116.8
+TS204,Telangana Model School Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Government,Rural,1157,561,596,13,Yes,Yes,Yes,Yes,No,1,73.9,5.1,82,89.0
+TS205,MJPTBCWREIS Armoor,Nizamabad,Armoor,Private,Rural,774,383,391,28,Yes,Yes,Yes,No,Yes,5,77.7,3.8,90,27.6
+TS206,Telangana Model School Parkal,Warangal,Parkal,Aided,Urban,875,430,445,16,Yes,Yes,Yes,Yes,Yes,4,87.5,1.6,96,54.7
+TS207,Residential School Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Government,Rural,267,121,146,39,Yes,Yes,No,Yes,No,5,93.2,2.1,76,6.8
+TS208,Govt High School Boath,Adilabad,Boath,Government,Rural,1472,777,695,23,Yes,Yes,Yes,No,Yes,9,93.6,1.0,96,64.0
+TS209,Residential School Shamshabad,Rangareddy,Shamshabad,Private,Rural,719,378,341,41,Yes,No,Yes,Yes,Yes,2,73.7,5.1,83,17.5
+TS210,MJPTBCWREIS Manakondur,Karimnagar,Manakondur,Private,Urban,1487,689,798,45,Yes,Yes,Yes,Yes,Yes,2,77.2,3.7,93,33.0
+TS211,KGBV Wyra,Khammam,Wyra,Government,Rural,281,126,155,10,Yes,Yes,No,Yes,Yes,1,75.8,5.0,80,28.1
+TS212,KGBV Kazipet,Warangal,Kazipet,Government,Urban,733,369,364,43,Yes,Yes,Yes,Yes,Yes,4,82.7,2.4,96,17.0
+TS213,Govt High School Devarakonda,Nalgonda,Devarakonda,Private,Urban,1313,681,632,31,Yes,No,Yes,No,Yes,0,73.2,6.1,72,42.4
+TS214,MJPTBCWREIS Chevella,Rangareddy,Chevella,Private,Urban,1487,787,700,19,Yes,Yes,Yes,Yes,Yes,10,78.8,2.8,100,78.3
+TS215,KGBV Armoor,Nizamabad,Armoor,Private,Rural,1319,627,692,23,Yes,Yes,No,Yes,Yes,2,90.7,2.2,81,57.3
+TS216,Telangana Model School Hanamkonda,Warangal,Hanamkonda,Private,Urban,317,169,148,50,Yes,No,Yes,Yes,Yes,5,77.5,4.0,88,6.3
+TS217,ZPHS Kazipet,Warangal,Kazipet,Government,Rural,965,448,517,44,Yes,Yes,Yes,Yes,Yes,0,92.3,1.2,90,21.9
+TS218,Telangana Model School Jadcherla,Mahabubnagar,Jadcherla,Government,Rural,622,310,312,9,Yes,Yes,Yes,Yes,Yes,0,87.4,2.1,90,69.1
+TS219,Govt High School Amberpet,Hyderabad,Amberpet,Private,Urban,1129,514,615,36,Yes,Yes,Yes,No,Yes,8,82.4,2.6,94,31.4
+TS220,KGBV Armoor,Nizamabad,Armoor,Government,Rural,1065,582,483,18,Yes,Yes,Yes,No,Yes,9,78.3,3.2,96,59.2
+TS221,KGBV Wyra,Khammam,Wyra,Government,Urban,1234,655,579,13,Yes,Yes,Yes,No,Yes,1,95.8,1.0,84,94.9
+TS222,Telangana Model School Devarakonda,Nalgonda,Devarakonda,Government,Urban,605,281,324,49,Yes,Yes,Yes,Yes,Yes,3,77.8,3.5,94,12.3
+TS223,ZPHS Miryalaguda,Nalgonda,Miryalaguda,Government,Urban,684,333,351,15,Yes,Yes,Yes,Yes,Yes,8,85.8,1.6,100,45.6
+TS224,MJPTBCWREIS Parkal,Warangal,Parkal,Government,Urban,1411,758,653,48,Yes,Yes,Yes,Yes,Yes,7,73.7,3.7,100,29.4
+TS225,Telangana Model School Huzurabad,Karimnagar,Huzurabad,Private,Urban,959,522,437,46,Yes,Yes,Yes,Yes,No,10,97.1,1.0,95,20.8
+TS226,KGBV Huzurabad,Karimnagar,Huzurabad,Government,Urban,1022,498,524,11,Yes,Yes,Yes,Yes,Yes,9,97.6,1.0,100,92.9
+TS227,Telangana Model School Sangareddy,Medak,Sangareddy,Private,Rural,652,356,296,33,Yes,Yes,No,No,Yes,3,85.6,3.7,74,19.8
+TS228,ZPHS Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Government,Urban,833,457,376,27,Yes,Yes,No,Yes,Yes,0,81.8,4.0,78,30.9
+TS229,ZPHS Manakondur,Karimnagar,Manakondur,Aided,Urban,376,194,182,29,Yes,Yes,No,No,Yes,1,92.0,2.7,72,13.0
+TS230,KGBV Charminar,Hyderabad,Charminar,Government,Rural,999,452,547,26,Yes,Yes,Yes,Yes,No,5,76.3,4.2,88,38.4
+TS231,ZPHS Miryalaguda,Nalgonda,Miryalaguda,Government,Rural,1448,652,796,43,Yes,No,No,Yes,No,10,82.0,4.4,73,33.7
+TS232,Residential School Huzurabad,Karimnagar,Huzurabad,Private,Rural,1215,660,555,43,Yes,Yes,Yes,Yes,Yes,10,81.8,2.3,100,28.3
+TS233,Residential School Shamshabad,Rangareddy,Shamshabad,Private,Urban,990,484,506,16,Yes,Yes,Yes,No,Yes,2,94.9,1.1,85,61.9
+TS234,ZPHS Shadnagar,Mahabubnagar,Shadnagar,Government,Urban,900,441,459,55,Yes,Yes,Yes,Yes,Yes,2,91.2,1.1,93,16.4
+TS235,MJPTBCWREIS Wyra,Khammam,Wyra,Government,Rural,1416,684,732,13,Yes,Yes,Yes,Yes,Yes,0,94.1,1.0,90,108.9
+TS236,MJPTBCWREIS Kothagudem,Khammam,Kothagudem,Government,Urban,553,274,279,33,Yes,Yes,Yes,Yes,Yes,10,97.6,1.0,100,16.8
+TS237,Telangana Model School Parkal,Warangal,Parkal,Government,Urban,1278,635,643,27,Yes,Yes,Yes,No,Yes,2,75.8,4.6,85,47.3
+TS238,KGBV Palair,Khammam,Palair,Government,Rural,360,183,177,55,Yes,Yes,Yes,No,Yes,4,74.6,4.5,88,6.5
+TS239,KGBV Boath,Adilabad,Boath,Government,Rural,677,369,308,40,Yes,Yes,Yes,Yes,Yes,6,84.6,1.9,99,16.9
+TS240,Telangana Model School Chevella,Rangareddy,Chevella,Government,Rural,460,217,243,35,Yes,Yes,No,Yes,Yes,3,87.0,2.8,82,13.1
+TS241,Govt High School Bheemgal,Nizamabad,Bheemgal,Government,Rural,391,198,193,46,Yes,Yes,Yes,No,Yes,9,77.0,3.5,96,8.5
+TS242,Govt High School Narsapur,Medak,Narsapur,Private,Rural,1403,744,659,13,Yes,Yes,Yes,Yes,No,4,87.4,2.4,86,107.9
+TS243,Residential School Secunderabad,Hyderabad,Secunderabad,Private,Urban,645,313,332,43,Yes,No,No,Yes,Yes,1,72.3,6.4,70,15.0
+TS244,KGBV Narsapur,Medak,Narsapur,Government,Rural,1301,696,605,49,Yes,Yes,No,Yes,No,7,74.1,5.4,78,26.6
+TS245,ZPHS Jadcherla,Mahabubnagar,Jadcherla,Government,Rural,579,310,269,13,Yes,Yes,Yes,Yes,Yes,9,76.3,3.3,100,44.5
+TS246,KGBV Huzurabad,Karimnagar,Huzurabad,Government,Urban,1100,508,592,51,Yes,Yes,No,Yes,Yes,7,88.2,2.1,88,21.6
+TS247,Residential School Wyra,Khammam,Wyra,Government,Urban,1248,674,574,30,Yes,Yes,No,Yes,Yes,7,73.5,4.7,88,41.6
+TS248,Residential School Miryalaguda,Nalgonda,Miryalaguda,Government,Urban,936,461,475,20,Yes,Yes,Yes,Yes,Yes,0,84.3,2.6,90,46.8
+TS249,Telangana Model School Bodhan,Nizamabad,Bodhan,Private,Urban,1175,534,641,14,Yes,Yes,No,Yes,Yes,8,77.1,3.9,90,83.9
+TS250,ZPHS Utnoor,Adilabad,Utnoor,Government,Urban,1458,714,744,25,Yes,Yes,Yes,No,Yes,9,88.7,1.4,96,58.3
+TS251,MJPTBCWREIS Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Aided,Urban,266,120,146,36,Yes,Yes,Yes,No,Yes,1,83.4,3.3,84,7.4
+TS252,Govt High School Huzurabad,Karimnagar,Huzurabad,Government,Urban,759,347,412,23,Yes,Yes,No,Yes,Yes,9,93.3,1.0,92,33.0
+TS253,Telangana Model School Miryalaguda,Nalgonda,Miryalaguda,Government,Urban,579,303,276,50,Yes,Yes,No,Yes,Yes,2,78.0,4.5,81,11.6
+TS254,ZPHS Devarakonda,Nalgonda,Devarakonda,Government,Urban,328,154,174,27,Yes,Yes,Yes,Yes,Yes,0,81.7,3.1,90,12.1
+TS255,KGBV Jadcherla,Mahabubnagar,Jadcherla,Government,Rural,938,486,452,16,Yes,Yes,No,Yes,Yes,6,76.4,4.3,87,58.6
+TS256,MJPTBCWREIS Charminar,Hyderabad,Charminar,Government,Urban,586,298,288,46,Yes,Yes,No,Yes,Yes,1,88.0,2.8,80,12.7
+TS257,MJPTBCWREIS Amberpet,Hyderabad,Amberpet,Private,Urban,582,262,320,36,Yes,Yes,No,Yes,No,5,92.3,2.3,76,16.2
+TS258,Residential School Shadnagar,Mahabubnagar,Shadnagar,Private,Urban,894,412,482,53,Yes,Yes,No,Yes,Yes,3,71.8,5.5,82,16.9
+TS259,ZPHS Miryalaguda,Nalgonda,Miryalaguda,Government,Urban,459,216,243,46,Yes,Yes,Yes,Yes,Yes,5,79.7,2.8,98,10.0
+TS260,Residential School Shadnagar,Mahabubnagar,Shadnagar,Government,Urban,279,129,150,35,Yes,Yes,Yes,No,Yes,2,96.2,1.0,85,8.0
+TS261,KGBV Shamshabad,Rangareddy,Shamshabad,Government,Urban,1156,548,608,53,Yes,No,Yes,Yes,Yes,7,89.5,1.7,90,21.8
+TS262,ZPHS Chevella,Rangareddy,Chevella,Government,Urban,725,384,341,12,Yes,Yes,Yes,Yes,Yes,4,95.9,1.0,96,60.4
+TS263,MJPTBCWREIS Armoor,Nizamabad,Armoor,Government,Urban,384,186,198,9,Yes,Yes,Yes,Yes,Yes,10,82.9,2.1,100,42.7
+TS264,Govt High School Jadcherla,Mahabubnagar,Jadcherla,Government,Rural,875,452,423,41,Yes,Yes,Yes,No,Yes,5,88.9,1.8,90,21.3
+TS265,Govt High School Wyra,Khammam,Wyra,Government,Urban,1061,555,506,30,Yes,Yes,Yes,Yes,Yes,1,75.9,4.0,92,35.4
+TS266,Telangana Model School Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Aided,Urban,624,327,297,33,Yes,Yes,Yes,Yes,Yes,0,85.6,2.4,90,18.9
+TS267,KGBV Suryapet,Nalgonda,Suryapet,Aided,Rural,410,211,199,33,Yes,Yes,Yes,Yes,Yes,10,83.1,2.0,100,12.4
+TS268,Govt High School Wyra,Khammam,Wyra,Government,Urban,1447,670,777,15,Yes,Yes,Yes,Yes,Yes,3,95.8,1.0,94,96.5
+TS269,MJPTBCWREIS Wyra,Khammam,Wyra,Government,Rural,1190,630,560,49,Yes,Yes,Yes,Yes,Yes,2,81.1,3.0,93,24.3
+TS270,Residential School Nirmal,Adilabad,Nirmal,Government,Urban,383,195,188,32,Yes,Yes,Yes,Yes,Yes,0,86.3,2.3,90,12.0
+TS271,MJPTBCWREIS Bheemgal,Nizamabad,Bheemgal,Aided,Urban,1475,760,715,42,Yes,Yes,Yes,Yes,Yes,3,85.4,2.1,94,35.1
+TS272,MJPTBCWREIS Kazipet,Warangal,Kazipet,Private,Urban,999,496,503,16,Yes,No,No,Yes,Yes,4,81.2,4.5,74,62.4
+TS273,ZPHS Nirmal,Adilabad,Nirmal,Government,Rural,735,384,351,9,Yes,No,Yes,No,Yes,7,78.4,4.3,82,81.7
+TS274,KGBV Miryalaguda,Nalgonda,Miryalaguda,Private,Urban,1241,666,575,22,Yes,Yes,Yes,Yes,Yes,9,77.2,3.1,100,56.4
+TS275,ZPHS Jammikunta,Karimnagar,Jammikunta,Government,Rural,384,176,208,20,Yes,Yes,Yes,No,Yes,6,92.1,1.1,91,19.2
+TS276,Residential School Shamshabad,Rangareddy,Shamshabad,Government,Urban,343,155,188,26,Yes,Yes,Yes,Yes,Yes,10,97.0,1.0,100,13.2
+TS277,Govt High School Bheemgal,Nizamabad,Bheemgal,Government,Rural,1482,701,781,46,Yes,Yes,Yes,Yes,Yes,0,84.7,2.6,90,32.2
+TS278,Telangana Model School Charminar,Hyderabad,Charminar,Government,Urban,1041,476,565,32,Yes,Yes,Yes,Yes,Yes,10,90.9,1.0,100,32.5
+TS279,ZPHS Chevella,Rangareddy,Chevella,Private,Urban,530,248,282,38,Yes,Yes,Yes,Yes,Yes,2,82.7,2.7,93,13.9
+TS280,Govt High School Devarakonda,Nalgonda,Devarakonda,Government,Urban,1053,555,498,24,Yes,Yes,Yes,Yes,Yes,1,77.3,3.7,92,43.9
+TS281,Govt High School Wyra,Khammam,Wyra,Government,Urban,1442,747,695,21,Yes,Yes,Yes,Yes,Yes,1,72.7,4.6,92,68.7
+TS282,KGBV Kothagudem,Khammam,Kothagudem,Aided,Urban,507,250,257,24,Yes,Yes,Yes,Yes,Yes,6,92.9,1.0,99,21.1
+TS283,KGBV Narayanpet,Mahabubnagar,Narayanpet,Government,Urban,902,481,421,39,Yes,Yes,No,No,Yes,5,90.3,2.5,78,23.1
+TS284,ZPHS Narayanpet,Mahabubnagar,Narayanpet,Government,Rural,919,429,490,39,Yes,Yes,Yes,Yes,Yes,5,75.1,3.6,98,23.6
+TS285,Residential School Huzurabad,Karimnagar,Huzurabad,Government,Urban,668,304,364,33,Yes,Yes,No,Yes,Yes,0,81.6,4.1,78,20.2
+TS286,MJPTBCWREIS Toopran,Medak,Toopran,Private,Rural,289,147,142,42,Yes,Yes,No,Yes,Yes,5,78.6,4.0,86,6.9
+TS287,Residential School Toopran,Medak,Toopran,Government,Rural,480,260,220,32,Yes,Yes,Yes,No,Yes,5,82.1,3.0,90,15.0
+TS288,Residential School Kothagudem,Khammam,Kothagudem,Government,Urban,400,203,197,28,Yes,Yes,Yes,Yes,Yes,6,85.3,1.7,99,14.3
+TS289,Residential School Chevella,Rangareddy,Chevella,Government,Rural,415,190,225,17,Yes,Yes,No,Yes,No,8,73.3,5.4,80,24.4
+TS290,Residential School Miryalaguda,Nalgonda,Miryalaguda,Private,Urban,260,136,124,21,Yes,Yes,Yes,No,No,1,79.2,4.8,74,12.4
+TS291,Telangana Model School Charminar,Hyderabad,Charminar,Private,Urban,1022,502,520,50,Yes,Yes,Yes,Yes,Yes,8,88.3,1.1,100,20.4
+TS292,MJPTBCWREIS Utnoor,Adilabad,Utnoor,Private,Urban,1055,517,538,48,Yes,Yes,Yes,Yes,Yes,6,82.2,2.3,99,22.0
+TS293,MJPTBCWREIS Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Aided,Rural,1463,658,805,12,Yes,No,No,Yes,Yes,7,81.9,4.0,78,121.9
+TS294,Telangana Model School Manakondur,Karimnagar,Manakondur,Government,Rural,676,322,354,9,Yes,Yes,Yes,Yes,Yes,9,91.8,1.0,100,75.1
+TS295,Govt High School Narayanpet,Mahabubnagar,Narayanpet,Private,Urban,1415,679,736,15,Yes,Yes,No,Yes,Yes,6,72.0,5.1,87,94.3
+TS296,ZPHS Utnoor,Adilabad,Utnoor,Government,Rural,1179,627,552,42,Yes,No,No,Yes,Yes,7,89.0,2.7,78,28.1
+TS297,ZPHS Hanamkonda,Warangal,Hanamkonda,Government,Urban,1473,666,807,38,Yes,Yes,Yes,Yes,Yes,8,80.0,2.6,100,38.8
+TS298,KGBV Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Private,Rural,1463,713,750,12,Yes,Yes,No,Yes,Yes,5,79.0,3.9,86,121.9
+TS299,Telangana Model School Chevella,Rangareddy,Chevella,Private,Urban,550,298,252,22,Yes,Yes,Yes,Yes,Yes,0,77.1,3.9,90,25.0
+TS300,KGBV Armoor,Nizamabad,Armoor,Aided,Rural,1452,748,704,9,Yes,Yes,Yes,Yes,Yes,6,84.7,1.8,99,161.3
+TS301,Govt High School Kothagudem,Khammam,Kothagudem,Private,Urban,1314,683,631,25,Yes,Yes,No,Yes,Yes,1,88.2,2.7,80,52.6
+TS302,Govt High School Bheemgal,Nizamabad,Bheemgal,Government,Rural,984,453,531,38,Yes,Yes,No,Yes,Yes,1,80.3,4.1,80,25.9
+TS303,Telangana Model School Jadcherla,Mahabubnagar,Jadcherla,Government,Urban,810,403,407,51,Yes,No,Yes,Yes,Yes,5,73.9,4.7,88,15.9
+TS304,MJPTBCWREIS Utnoor,Adilabad,Utnoor,Government,Urban,1398,731,667,30,Yes,Yes,No,Yes,Yes,3,86.8,2.8,82,46.6
+TS305,Residential School Shamshabad,Rangareddy,Shamshabad,Government,Urban,302,165,137,54,Yes,No,Yes,Yes,Yes,10,78.3,3.3,95,5.6
+TS306,KGBV Jadcherla,Mahabubnagar,Jadcherla,Government,Rural,1043,553,490,55,Yes,Yes,Yes,Yes,Yes,4,74.7,3.9,96,19.0
+TS307,Telangana Model School Charminar,Hyderabad,Charminar,Government,Urban,990,524,466,49,Yes,Yes,No,Yes,Yes,3,72.6,5.4,82,20.2
+TS308,Residential School Miryalaguda,Nalgonda,Miryalaguda,Government,Rural,1454,730,724,52,Yes,Yes,Yes,No,No,4,73.7,5.5,78,28.0
+TS309,Telangana Model School Palair,Khammam,Palair,Private,Urban,1441,686,755,51,Yes,Yes,Yes,Yes,Yes,6,97.0,1.0,99,28.3
+TS310,MJPTBCWREIS Wyra,Khammam,Wyra,Government,Urban,732,358,374,36,Yes,Yes,No,Yes,Yes,6,80.3,3.6,87,20.3
+TS311,Residential School Shadnagar,Mahabubnagar,Shadnagar,Private,Urban,1270,644,626,28,Yes,Yes,No,Yes,No,0,84.4,4.4,68,45.4
+TS312,Govt High School Kothagudem,Khammam,Kothagudem,Government,Rural,1002,461,541,29,Yes,Yes,No,Yes,Yes,0,73.4,5.5,78,34.6
+TS313,Govt High School Nirmal,Adilabad,Nirmal,Government,Rural,1234,624,610,51,Yes,Yes,Yes,Yes,Yes,3,90.4,1.2,94,24.2
+TS314,ZPHS Palair,Khammam,Palair,Government,Rural,1147,627,520,28,Yes,Yes,Yes,Yes,Yes,9,84.4,1.8,100,41.0
+TS315,MJPTBCWREIS Charminar,Hyderabad,Charminar,Government,Urban,952,477,475,51,Yes,Yes,Yes,Yes,Yes,4,93.5,1.0,96,18.7
+TS316,Telangana Model School Manakondur,Karimnagar,Manakondur,Government,Rural,438,228,210,36,Yes,Yes,Yes,No,Yes,5,83.5,2.8,90,12.2
+TS317,ZPHS Toopran,Medak,Toopran,Government,Rural,700,342,358,43,Yes,Yes,Yes,Yes,Yes,2,82.4,2.7,93,16.3
+TS318,ZPHS Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Private,Rural,1303,629,674,31,Yes,Yes,Yes,Yes,No,2,80.7,3.8,83,42.0
+TS319,MJPTBCWREIS Toopran,Medak,Toopran,Government,Urban,268,140,128,45,Yes,Yes,Yes,Yes,Yes,6,97.3,1.0,99,6.0
+TS320,Govt High School Charminar,Hyderabad,Charminar,Private,Rural,1060,541,519,39,Yes,Yes,Yes,Yes,Yes,7,74.3,3.6,100,27.2
+TS321,Govt High School Charminar,Hyderabad,Charminar,Government,Urban,551,293,258,47,Yes,No,No,Yes,Yes,7,86.4,3.2,78,11.7
+TS322,Telangana Model School Bheemgal,Nizamabad,Bheemgal,Government,Urban,1069,485,584,33,Yes,Yes,Yes,Yes,Yes,4,72.9,4.2,96,32.4
+TS323,MJPTBCWREIS Boath,Adilabad,Boath,Government,Rural,1090,498,592,49,Yes,Yes,Yes,Yes,No,5,93.2,1.2,88,22.2
+TS324,Telangana Model School Boath,Adilabad,Boath,Government,Urban,1463,668,795,14,Yes,Yes,Yes,No,No,5,92.3,2.0,80,104.5
+TS325,KGBV Miryalaguda,Nalgonda,Miryalaguda,Government,Urban,318,164,154,9,Yes,Yes,Yes,Yes,Yes,8,77.9,3.0,100,35.3
+TS326,ZPHS Devarakonda,Nalgonda,Devarakonda,Government,Rural,881,480,401,16,Yes,Yes,No,Yes,Yes,6,80.3,3.6,87,55.1
+TS327,KGBV Devarakonda,Nalgonda,Devarakonda,Aided,Rural,1251,687,564,44,Yes,Yes,Yes,No,Yes,8,88.5,1.5,94,28.4
+TS328,Govt High School Manakondur,Karimnagar,Manakondur,Private,Urban,677,337,340,43,Yes,Yes,No,Yes,Yes,7,92.6,1.3,88,15.7
+TS329,Govt High School Nirmal,Adilabad,Nirmal,Aided,Urban,1272,608,664,13,Yes,Yes,No,Yes,No,4,73.3,5.9,74,97.8
+TS330,KGBV Miryalaguda,Nalgonda,Miryalaguda,Private,Rural,1022,472,550,23,Yes,Yes,No,No,Yes,3,73.9,5.8,74,44.4
+TS331,MJPTBCWREIS Parkal,Warangal,Parkal,Aided,Rural,441,211,230,38,Yes,Yes,No,Yes,Yes,10,72.7,4.5,93,11.6
+TS332,KGBV Kazipet,Warangal,Kazipet,Government,Urban,800,440,360,19,Yes,Yes,Yes,Yes,Yes,2,80.2,3.1,93,42.1
+TS333,MJPTBCWREIS Shadnagar,Mahabubnagar,Shadnagar,Government,Rural,415,202,213,38,Yes,Yes,Yes,Yes,Yes,5,93.2,1.0,98,10.9
+TS334,Residential School Toopran,Medak,Toopran,Government,Urban,747,357,390,43,Yes,No,No,Yes,Yes,9,91.3,2.0,82,17.4
+TS335,KGBV Bheemgal,Nizamabad,Bheemgal,Private,Rural,1343,691,652,44,Yes,Yes,Yes,Yes,Yes,9,90.2,1.0,100,30.5
+TS336,KGBV Wyra,Khammam,Wyra,Government,Rural,411,184,227,27,Yes,Yes,Yes,Yes,Yes,4,94.0,1.0,96,15.2
+TS337,KGBV Boath,Adilabad,Boath,Private,Rural,732,365,367,48,Yes,Yes,No,Yes,Yes,5,92.0,1.6,86,15.2
+TS338,Residential School Palair,Khammam,Palair,Private,Urban,803,426,377,9,Yes,Yes,Yes,Yes,Yes,6,78.2,3.0,99,89.2
+TS339,ZPHS Sangareddy,Medak,Sangareddy,Government,Urban,520,263,257,27,Yes,Yes,Yes,Yes,Yes,7,83.1,2.0,100,19.3
+TS340,MJPTBCWREIS Hanamkonda,Warangal,Hanamkonda,Government,Urban,1086,507,579,17,Yes,Yes,Yes,Yes,No,7,90.5,1.5,90,63.9
+TS341,ZPHS Huzurabad,Karimnagar,Huzurabad,Government,Rural,883,423,460,18,Yes,Yes,Yes,Yes,No,4,87.7,2.3,86,49.1
+TS342,Govt High School Shadnagar,Mahabubnagar,Shadnagar,Private,Rural,1120,561,559,24,Yes,Yes,Yes,Yes,Yes,1,94.7,1.0,92,46.7
+TS343,Residential School Suryapet,Nalgonda,Suryapet,Aided,Urban,429,221,208,10,Yes,Yes,Yes,Yes,Yes,4,89.9,1.1,96,42.9
+TS344,ZPHS Jadcherla,Mahabubnagar,Jadcherla,Government,Urban,1359,702,657,30,Yes,Yes,Yes,Yes,Yes,4,92.8,1.0,96,45.3
+TS345,ZPHS Secunderabad,Hyderabad,Secunderabad,Government,Urban,797,381,416,46,Yes,Yes,No,Yes,Yes,7,92.4,1.3,88,17.3
+TS346,ZPHS Jammikunta,Karimnagar,Jammikunta,Government,Rural,267,120,147,31,Yes,Yes,No,Yes,Yes,1,88.9,2.6,80,8.6
+TS347,Telangana Model School Armoor,Nizamabad,Armoor,Aided,Urban,588,279,309,52,Yes,Yes,No,Yes,Yes,10,80.8,3.0,93,11.3
+TS348,Telangana Model School Charminar,Hyderabad,Charminar,Government,Rural,653,344,309,12,Yes,Yes,Yes,Yes,Yes,3,85.6,2.1,94,54.4
+TS349,ZPHS Shamshabad,Rangareddy,Shamshabad,Government,Rural,681,374,307,37,Yes,Yes,No,Yes,Yes,8,73.1,4.6,90,18.4
+TS350,Residential School Narsapur,Medak,Narsapur,Private,Rural,846,438,408,50,Yes,Yes,Yes,Yes,Yes,2,88.3,1.7,93,16.9
+TS351,MJPTBCWREIS Nirmal,Adilabad,Nirmal,Government,Rural,505,267,238,55,Yes,Yes,Yes,No,Yes,5,88.3,1.9,90,9.2
+TS352,MJPTBCWREIS Narsapur,Medak,Narsapur,Aided,Rural,945,468,477,42,Yes,Yes,Yes,Yes,Yes,6,86.9,1.4,99,22.5
+TS353,MJPTBCWREIS Secunderabad,Hyderabad,Secunderabad,Government,Rural,1169,594,575,36,Yes,No,Yes,Yes,Yes,0,93.0,1.9,80,32.5
+TS354,Residential School Narsapur,Medak,Narsapur,Private,Urban,454,242,212,12,Yes,Yes,No,No,Yes,2,91.7,2.7,73,37.8
+TS355,Residential School Manakondur,Karimnagar,Manakondur,Government,Urban,1199,585,614,23,Yes,Yes,Yes,Yes,Yes,9,88.0,1.2,100,52.1
+TS356,MJPTBCWREIS Nirmal,Adilabad,Nirmal,Government,Rural,433,211,222,29,Yes,Yes,No,Yes,Yes,4,88.3,2.4,84,14.9
+TS357,KGBV Shadnagar,Mahabubnagar,Shadnagar,Private,Urban,1477,778,699,17,Yes,Yes,Yes,No,Yes,7,85.8,2.2,92,86.9
+TS358,Telangana Model School Shadnagar,Mahabubnagar,Shadnagar,Government,Rural,1421,757,664,45,Yes,Yes,Yes,Yes,Yes,6,97.2,1.0,99,31.6
+TS359,ZPHS Miryalaguda,Nalgonda,Miryalaguda,Government,Rural,1345,663,682,50,Yes,Yes,Yes,Yes,Yes,2,72.8,4.5,93,26.9
+TS360,MJPTBCWREIS Huzurabad,Karimnagar,Huzurabad,Government,Rural,1470,681,789,44,Yes,Yes,Yes,Yes,Yes,8,74.7,3.6,100,33.4
+TS361,ZPHS Kazipet,Warangal,Kazipet,Private,Rural,1171,530,641,19,Yes,Yes,Yes,No,Yes,5,96.3,1.0,90,61.6
+TS362,MJPTBCWREIS Shamshabad,Rangareddy,Shamshabad,Aided,Urban,381,189,192,51,Yes,Yes,Yes,Yes,Yes,5,86.8,1.5,98,7.5
+TS363,ZPHS Boath,Adilabad,Boath,Government,Urban,1311,630,681,16,Yes,Yes,Yes,Yes,Yes,8,91.8,1.0,100,81.9
+TS364,ZPHS Bodhan,Nizamabad,Bodhan,Private,Urban,1296,592,704,22,Yes,Yes,Yes,Yes,No,6,87.5,2.1,89,58.9
+TS365,Govt High School Bheemgal,Nizamabad,Bheemgal,Aided,Urban,377,205,172,22,Yes,No,Yes,Yes,Yes,9,94.9,1.0,94,17.1
+TS366,Govt High School Boath,Adilabad,Boath,Government,Urban,549,282,267,51,Yes,Yes,Yes,Yes,Yes,6,75.4,3.5,99,10.8
+TS367,Residential School Utnoor,Adilabad,Utnoor,Private,Urban,1210,631,579,35,Yes,Yes,No,Yes,No,9,75.0,4.9,82,34.6
+TS368,ZPHS Narayanpet,Mahabubnagar,Narayanpet,Private,Rural,1399,741,658,50,Yes,Yes,Yes,Yes,Yes,2,75.4,4.0,93,28.0
+TS369,Telangana Model School Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Government,Urban,811,420,391,27,Yes,Yes,Yes,No,Yes,4,83.9,2.9,88,30.0
+TS370,MJPTBCWREIS Huzurabad,Karimnagar,Huzurabad,Government,Urban,906,486,420,15,Yes,Yes,Yes,Yes,Yes,7,79.8,2.6,100,60.4
+TS371,KGBV Wyra,Khammam,Wyra,Government,Rural,913,429,484,22,Yes,Yes,Yes,Yes,Yes,7,73.0,3.9,100,41.5
+TS372,ZPHS Parkal,Warangal,Parkal,Government,Urban,940,457,483,29,Yes,Yes,No,Yes,Yes,0,76.2,5.0,78,32.4
+TS373,MJPTBCWREIS Chevella,Rangareddy,Chevella,Government,Rural,877,444,433,53,Yes,Yes,No,No,Yes,0,71.7,6.5,70,16.5
+TS374,Telangana Model School Chevella,Rangareddy,Chevella,Government,Rural,960,435,525,20,Yes,Yes,Yes,Yes,Yes,1,83.7,2.6,92,48.0
+TS375,KGBV Charminar,Hyderabad,Charminar,Aided,Rural,700,383,317,34,Yes,Yes,Yes,Yes,No,9,87.7,1.7,94,20.6
+TS376,KGBV Bodhan,Nizamabad,Bodhan,Government,Urban,376,175,201,32,Yes,Yes,Yes,Yes,Yes,9,81.6,2.3,100,11.8
+TS377,Residential School Nirmal,Adilabad,Nirmal,Government,Rural,859,422,437,51,Yes,Yes,Yes,Yes,Yes,7,87.3,1.3,100,16.8
+TS378,Residential School Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Government,Urban,398,214,184,37,Yes,Yes,Yes,Yes,Yes,3,76.9,3.6,94,10.8
+TS379,Telangana Model School Shadnagar,Mahabubnagar,Shadnagar,Private,Rural,1369,651,718,23,Yes,Yes,No,Yes,Yes,5,85.8,2.7,86,59.5
+TS380,Residential School Suryapet,Nalgonda,Suryapet,Government,Urban,671,330,341,16,Yes,Yes,Yes,Yes,Yes,5,76.1,3.5,98,41.9
+TS381,Telangana Model School Narayanpet,Mahabubnagar,Narayanpet,Aided,Urban,337,158,179,32,Yes,Yes,No,Yes,Yes,10,83.8,2.5,93,10.5
+TS382,Residential School Boath,Adilabad,Boath,Government,Rural,1288,633,655,41,Yes,Yes,Yes,Yes,Yes,9,84.5,1.8,100,31.4
+TS383,Telangana Model School Devarakonda,Nalgonda,Devarakonda,Private,Rural,294,146,148,21,Yes,Yes,Yes,Yes,Yes,5,72.9,4.0,98,14.0
+TS384,Residential School Shamshabad,Rangareddy,Shamshabad,Government,Urban,1195,591,604,8,Yes,Yes,Yes,Yes,Yes,6,97.6,1.0,99,149.4
+TS385,Telangana Model School Shamshabad,Rangareddy,Shamshabad,Government,Urban,641,300,341,18,Yes,Yes,No,Yes,No,10,94.7,1.3,83,35.6
+TS386,MJPTBCWREIS Utnoor,Adilabad,Utnoor,Government,Rural,518,251,267,36,Yes,Yes,Yes,No,Yes,7,76.9,3.8,92,14.4
+TS387,Telangana Model School Bheemgal,Nizamabad,Bheemgal,Government,Urban,1174,578,596,17,Yes,Yes,Yes,Yes,Yes,6,77.2,3.2,99,69.1
+TS388,Govt High School Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Government,Urban,522,261,261,53,Yes,No,Yes,Yes,Yes,6,80.3,3.4,89,9.8
+TS389,Telangana Model School Kazipet,Warangal,Kazipet,Government,Rural,705,387,318,35,Yes,Yes,No,Yes,Yes,10,86.3,2.0,93,20.1
+TS390,KGBV Kazipet,Warangal,Kazipet,Aided,Urban,1295,631,664,48,Yes,Yes,Yes,No,Yes,2,95.8,1.0,85,27.0
+TS391,Telangana Model School Secunderabad,Hyderabad,Secunderabad,Private,Urban,1007,551,456,11,Yes,Yes,Yes,Yes,Yes,5,85.1,1.8,98,91.5
+TS392,Residential School Miryalaguda,Nalgonda,Miryalaguda,Government,Urban,912,419,493,20,Yes,Yes,Yes,No,Yes,0,89.4,2.3,82,45.6
+TS393,MJPTBCWREIS Chevella,Rangareddy,Chevella,Private,Urban,681,341,340,19,Yes,Yes,Yes,Yes,Yes,5,85.7,1.7,98,35.8
+TS394,MJPTBCWREIS Narayanpet,Mahabubnagar,Narayanpet,Government,Urban,1150,567,583,9,Yes,Yes,No,Yes,Yes,8,88.0,2.0,90,127.8
+TS395,Govt High School Secunderabad,Hyderabad,Secunderabad,Government,Urban,1062,488,574,54,Yes,Yes,Yes,No,Yes,3,88.8,2.1,86,19.7
+TS396,Telangana Model School Huzurabad,Karimnagar,Huzurabad,Aided,Urban,289,147,142,36,Yes,Yes,No,No,Yes,0,72.3,6.4,70,8.0
+TS397,Telangana Model School Charminar,Hyderabad,Charminar,Private,Rural,486,238,248,22,Yes,Yes,Yes,Yes,No,10,86.0,1.9,95,22.1
+TS398,Govt High School Boath,Adilabad,Boath,Government,Rural,1016,511,505,9,Yes,Yes,Yes,No,Yes,4,90.7,1.6,88,112.9
+TS399,Govt High School Parkal,Warangal,Parkal,Government,Urban,1201,559,642,44,Yes,Yes,Yes,Yes,Yes,1,73.5,4.4,92,27.3
+TS400,KGBV Kazipet,Warangal,Kazipet,Government,Urban,913,466,447,11,Yes,Yes,Yes,No,Yes,1,78.8,4.1,84,83.0
+TS401,ZPHS Utnoor,Adilabad,Utnoor,Government,Rural,1174,551,623,37,Yes,Yes,Yes,Yes,Yes,4,79.5,3.0,96,31.7
+TS402,KGBV Bheemgal,Nizamabad,Bheemgal,Government,Urban,508,273,235,40,Yes,Yes,Yes,Yes,Yes,0,78.5,3.7,90,12.7
+TS403,Telangana Model School Parkal,Warangal,Parkal,Government,Rural,667,341,326,26,Yes,Yes,Yes,Yes,No,7,88.0,2.0,90,25.7
+TS404,ZPHS Jammikunta,Karimnagar,Jammikunta,Government,Rural,876,433,443,15,Yes,Yes,Yes,Yes,Yes,3,97.4,1.0,94,58.4
+TS405,MJPTBCWREIS Hanamkonda,Warangal,Hanamkonda,Government,Rural,959,500,459,33,Yes,Yes,Yes,Yes,Yes,6,94.1,1.0,99,29.1
+TS406,Residential School Devarakonda,Nalgonda,Devarakonda,Government,Urban,1214,655,559,45,Yes,Yes,Yes,Yes,Yes,1,82.1,2.9,92,27.0
+TS407,Govt High School Bheemgal,Nizamabad,Bheemgal,Government,Rural,1166,604,562,16,Yes,Yes,Yes,Yes,Yes,4,89.0,1.3,96,72.9
+TS408,Residential School Amberpet,Hyderabad,Amberpet,Private,Rural,1260,592,668,16,Yes,Yes,Yes,Yes,Yes,3,82.5,2.6,94,78.8
+TS409,MJPTBCWREIS Kothagudem,Khammam,Kothagudem,Government,Rural,1449,755,694,20,Yes,Yes,Yes,No,No,7,73.1,5.3,82,72.5
+TS410,ZPHS Shadnagar,Mahabubnagar,Shadnagar,Government,Urban,564,293,271,26,Yes,Yes,Yes,No,Yes,8,96.3,1.0,94,21.7
+TS411,ZPHS Devarakonda,Nalgonda,Devarakonda,Private,Urban,265,141,124,38,Yes,Yes,No,Yes,No,9,83.8,3.4,82,7.0
+TS412,Govt High School Kothagudem,Khammam,Kothagudem,Aided,Urban,465,248,217,41,Yes,Yes,Yes,Yes,Yes,9,94.0,1.0,100,11.3
+TS413,Govt High School Nirmal,Adilabad,Nirmal,Government,Urban,1344,696,648,24,Yes,No,Yes,Yes,Yes,8,77.4,3.7,92,56.0
+TS414,KGBV Boath,Adilabad,Boath,Aided,Urban,1414,772,642,25,Yes,Yes,Yes,Yes,Yes,7,80.8,2.5,100,56.6
+TS415,KGBV Shamshabad,Rangareddy,Shamshabad,Private,Rural,1415,686,729,52,Yes,Yes,Yes,Yes,Yes,5,73.6,3.9,98,27.2
+TS416,Telangana Model School Suryapet,Nalgonda,Suryapet,Government,Urban,459,241,218,46,Yes,Yes,No,Yes,Yes,7,80.7,3.4,88,10.0
+TS417,Residential School Devarakonda,Nalgonda,Devarakonda,Government,Rural,1450,708,742,21,Yes,Yes,Yes,Yes,Yes,1,80.3,3.2,92,69.0
+TS418,Govt High School Jadcherla,Mahabubnagar,Jadcherla,Government,Rural,578,295,283,45,Yes,Yes,No,Yes,Yes,0,93.9,1.9,78,12.8
+TS419,ZPHS Armoor,Nizamabad,Armoor,Government,Urban,581,281,300,29,Yes,Yes,Yes,No,No,4,87.4,3.0,78,20.0
+TS420,Govt High School Miryalaguda,Nalgonda,Miryalaguda,Government,Urban,302,135,167,19,Yes,Yes,Yes,No,Yes,0,86.5,2.9,82,15.9
+TS421,Residential School Kazipet,Warangal,Kazipet,Private,Rural,802,362,440,19,Yes,Yes,Yes,Yes,Yes,9,83.7,1.9,100,42.2
+TS422,Residential School Chevella,Rangareddy,Chevella,Private,Urban,1103,520,583,23,Yes,Yes,Yes,No,Yes,4,82.7,3.1,88,48.0
+TS423,ZPHS Shamshabad,Rangareddy,Shamshabad,Government,Urban,1148,535,613,20,Yes,Yes,No,No,Yes,10,83.2,3.2,85,57.4
+TS424,ZPHS Hanamkonda,Warangal,Hanamkonda,Government,Rural,316,144,172,51,Yes,Yes,Yes,No,Yes,3,72.5,5.1,86,6.2
+TS425,MJPTBCWREIS Narayanpet,Mahabubnagar,Narayanpet,Government,Rural,1365,619,746,19,Yes,Yes,Yes,Yes,Yes,4,96.8,1.0,96,71.8
+TS426,Residential School Amberpet,Hyderabad,Amberpet,Government,Rural,1354,626,728,28,Yes,Yes,Yes,Yes,Yes,9,91.1,1.0,100,48.4
+TS427,KGBV Jadcherla,Mahabubnagar,Jadcherla,Private,Urban,1488,806,682,45,Yes,No,No,No,Yes,1,72.7,7.0,62,33.1
+TS428,KGBV Hanamkonda,Warangal,Hanamkonda,Government,Urban,569,294,275,19,Yes,Yes,Yes,Yes,Yes,0,95.0,1.0,90,29.9
+TS429,ZPHS Palair,Khammam,Palair,Government,Urban,257,133,124,30,Yes,Yes,No,Yes,No,10,76.9,4.5,83,8.6
+TS430,MJPTBCWREIS Armoor,Nizamabad,Armoor,Government,Urban,335,154,181,48,Yes,Yes,No,Yes,No,7,94.5,1.8,78,7.0
+TS431,KGBV Palair,Khammam,Palair,Government,Rural,269,124,145,25,Yes,Yes,Yes,Yes,Yes,1,90.4,1.4,92,10.8
+TS432,Telangana Model School Toopran,Medak,Toopran,Private,Urban,930,483,447,22,Yes,Yes,Yes,Yes,Yes,9,90.3,1.0,100,42.3
+TS433,Residential School Jadcherla,Mahabubnagar,Jadcherla,Government,Rural,571,260,311,40,Yes,Yes,Yes,Yes,Yes,9,88.6,1.1,100,14.3
+TS434,MJPTBCWREIS Suryapet,Nalgonda,Suryapet,Aided,Rural,1390,692,698,52,Yes,Yes,Yes,Yes,No,0,71.8,5.7,80,26.7
+TS435,ZPHS Suryapet,Nalgonda,Suryapet,Government,Rural,298,159,139,49,Yes,Yes,Yes,Yes,Yes,5,93.4,1.0,98,6.1
+TS436,Telangana Model School Bheemgal,Nizamabad,Bheemgal,Government,Urban,993,518,475,15,Yes,Yes,Yes,Yes,Yes,9,93.9,1.0,100,66.2
+TS437,MJPTBCWREIS Bodhan,Nizamabad,Bodhan,Government,Urban,1473,799,674,52,Yes,Yes,Yes,Yes,No,1,87.4,2.7,82,28.3
+TS438,ZPHS Narayanpet,Mahabubnagar,Narayanpet,Government,Rural,989,452,537,10,Yes,Yes,Yes,Yes,Yes,2,91.2,1.1,93,98.9
+TS439,MJPTBCWREIS Chevella,Rangareddy,Chevella,Government,Urban,1055,498,557,34,Yes,Yes,Yes,Yes,Yes,8,94.8,1.0,100,31.0
+TS440,MJPTBCWREIS Amberpet,Hyderabad,Amberpet,Private,Urban,579,274,305,19,Yes,No,No,Yes,No,7,75.5,6.0,68,30.5
+TS441,ZPHS Devarakonda,Nalgonda,Devarakonda,Government,Rural,886,472,414,13,Yes,Yes,Yes,Yes,Yes,8,81.8,2.3,100,68.2
+TS442,Telangana Model School Chevella,Rangareddy,Chevella,Government,Urban,638,320,318,16,Yes,Yes,Yes,Yes,Yes,10,85.2,1.7,100,39.9
+TS443,MJPTBCWREIS Amberpet,Hyderabad,Amberpet,Government,Rural,647,296,351,14,Yes,Yes,Yes,Yes,Yes,0,96.1,1.0,90,46.2
+TS444,KGBV Huzurabad,Karimnagar,Huzurabad,Government,Urban,343,178,165,20,Yes,Yes,Yes,Yes,No,6,85.4,2.5,89,17.1
+TS445,Telangana Model School Charminar,Hyderabad,Charminar,Private,Urban,1379,732,647,47,Yes,Yes,No,Yes,No,5,84.0,3.8,76,29.3
+TS446,MJPTBCWREIS Parkal,Warangal,Parkal,Government,Urban,597,316,281,9,Yes,Yes,Yes,No,Yes,0,95.0,1.3,82,66.3
+TS447,Telangana Model School Narayanpet,Mahabubnagar,Narayanpet,Private,Rural,1410,737,673,55,Yes,Yes,Yes,Yes,Yes,10,88.7,1.0,100,25.6
+TS448,Telangana Model School Bheemgal,Nizamabad,Bheemgal,Government,Urban,938,430,508,54,Yes,Yes,Yes,Yes,Yes,10,84.3,1.8,100,17.4
+TS449,KGBV Manakondur,Karimnagar,Manakondur,Government,Urban,1137,519,618,30,Yes,Yes,No,Yes,Yes,6,83.4,3.0,87,37.9
+TS450,Telangana Model School Devarakonda,Nalgonda,Devarakonda,Government,Rural,527,243,284,17,Yes,No,Yes,Yes,Yes,0,90.2,2.4,80,31.0
+TS451,ZPHS Sangareddy,Medak,Sangareddy,Private,Rural,1383,757,626,26,Yes,Yes,No,No,Yes,3,82.8,4.2,74,53.2
+TS452,ZPHS Chevella,Rangareddy,Chevella,Government,Urban,521,275,246,40,Yes,Yes,Yes,Yes,No,10,87.1,1.7,95,13.0
+TS453,Govt High School Jadcherla,Mahabubnagar,Jadcherla,Government,Rural,518,253,265,44,Yes,Yes,Yes,Yes,Yes,3,91.0,1.1,94,11.8
+TS454,KGBV Secunderabad,Hyderabad,Secunderabad,Private,Urban,729,388,341,29,Yes,Yes,Yes,Yes,No,3,85.2,2.9,84,25.1
+TS455,MJPTBCWREIS Narayanpet,Mahabubnagar,Narayanpet,Government,Urban,867,424,443,34,Yes,Yes,Yes,No,No,3,91.6,2.4,76,25.5
+TS456,MJPTBCWREIS Secunderabad,Hyderabad,Secunderabad,Government,Urban,948,446,502,10,Yes,Yes,Yes,Yes,Yes,2,94.9,1.0,93,94.8
+TS457,Telangana Model School Bheemgal,Nizamabad,Bheemgal,Government,Urban,435,235,200,48,Yes,Yes,No,No,Yes,7,92.3,2.0,80,9.1
+TS458,KGBV Amberpet,Hyderabad,Amberpet,Government,Urban,358,193,165,49,Yes,Yes,Yes,Yes,Yes,2,82.3,2.7,93,7.3
+TS459,Residential School Utnoor,Adilabad,Utnoor,Government,Rural,862,471,391,23,Yes,Yes,Yes,Yes,No,3,74.3,4.9,84,37.5
+TS460,Telangana Model School Wyra,Khammam,Wyra,Government,Rural,883,406,477,19,Yes,Yes,Yes,Yes,Yes,7,93.6,1.0,100,46.5
+TS461,Govt High School Nirmal,Adilabad,Nirmal,Government,Rural,991,539,452,23,Yes,Yes,Yes,Yes,Yes,10,74.9,3.5,100,43.1
+TS462,Govt High School Narayanpet,Mahabubnagar,Narayanpet,Aided,Urban,862,443,419,55,Yes,Yes,Yes,Yes,Yes,4,81.3,2.7,96,15.7
+TS463,KGBV Palair,Khammam,Palair,Government,Urban,505,236,269,51,Yes,Yes,Yes,Yes,No,8,94.2,1.0,92,9.9
+TS464,Govt High School Manakondur,Karimnagar,Manakondur,Private,Rural,398,200,198,47,Yes,Yes,Yes,Yes,Yes,3,88.7,1.5,94,8.5
+TS465,ZPHS Manakondur,Karimnagar,Manakondur,Government,Rural,695,336,359,51,Yes,Yes,Yes,Yes,Yes,1,86.1,2.1,92,13.6
+TS466,MJPTBCWREIS Jammikunta,Karimnagar,Jammikunta,Private,Rural,908,433,475,54,Yes,Yes,Yes,Yes,No,1,87.8,2.6,82,16.8
+TS467,KGBV Suryapet,Nalgonda,Suryapet,Government,Urban,335,163,172,38,Yes,Yes,Yes,Yes,No,1,75.4,4.9,82,8.8
+TS468,Residential School Ibrahimpatnam,Rangareddy,Ibrahimpatnam,Government,Urban,282,140,142,41,Yes,Yes,Yes,No,Yes,10,74.4,3.8,97,6.9
+TS469,ZPHS Wyra,Khammam,Wyra,Government,Rural,1367,617,750,17,Yes,Yes,Yes,No,Yes,7,86.5,2.1,92,80.4
+TS470,Govt High School Bodhan,Nizamabad,Bodhan,Private,Rural,393,213,180,38,Yes,Yes,Yes,Yes,Yes,10,87.8,1.2,100,10.3
+TS471,KGBV Jammikunta,Karimnagar,Jammikunta,Government,Rural,1290,631,659,38,Yes,Yes,No,Yes,Yes,2,95.5,1.3,81,33.9
+TS472,Govt High School Armoor,Nizamabad,Armoor,Government,Rural,1398,756,642,50,Yes,Yes,Yes,Yes,Yes,8,89.4,1.0,100,28.0
+TS473,ZPHS Kothagudem,Khammam,Kothagudem,Private,Rural,713,354,359,38,Yes,No,Yes,Yes,Yes,5,89.5,1.9,88,18.8
+TS474,Govt High School Jadcherla,Mahabubnagar,Jadcherla,Aided,Urban,447,241,206,18,Yes,Yes,Yes,Yes,Yes,1,83.1,2.7,92,24.8
+TS475,ZPHS Shadnagar,Mahabubnagar,Shadnagar,Private,Rural,529,280,249,52,Yes,Yes,Yes,Yes,Yes,9,89.4,1.0,100,10.2
+TS476,KGBV Kothagudem,Khammam,Kothagudem,Government,Rural,339,180,159,34,Yes,Yes,Yes,Yes,No,5,86.7,2.4,88,10.0
+TS477,Govt High School Secunderabad,Hyderabad,Secunderabad,Government,Rural,1436,705,731,27,Yes,Yes,No,No,No,8,90.9,2.9,72,53.2
+TS478,KGBV Palair,Khammam,Palair,Government,Urban,433,199,234,53,Yes,Yes,Yes,Yes,Yes,0,89.8,1.6,90,8.2
+TS479,Telangana Model School Armoor,Nizamabad,Armoor,Government,Rural,818,398,420,24,Yes,Yes,Yes,Yes,Yes,0,91.5,1.3,90,34.1
+TS480,Telangana Model School Huzurabad,Karimnagar,Huzurabad,Government,Rural,950,434,516,50,Yes,Yes,No,Yes,Yes,10,86.0,2.1,93,19.0
+TS481,MJPTBCWREIS Amberpet,Hyderabad,Amberpet,Private,Urban,1078,536,542,14,Yes,Yes,Yes,Yes,Yes,2,82.3,2.7,93,77.0
+TS482,Telangana Model School Nirmal,Adilabad,Nirmal,Government,Urban,538,273,265,55,Yes,Yes,No,Yes,Yes,4,75.9,4.6,84,9.8
+TS483,ZPHS Palair,Khammam,Palair,Government,Urban,1344,731,613,16,Yes,Yes,Yes,Yes,Yes,7,97.0,1.0,100,84.0
+TS484,ZPHS Wyra,Khammam,Wyra,Government,Rural,1346,639,707,13,Yes,Yes,Yes,Yes,No,6,91.9,1.3,89,103.5
+TS485,KGBV Toopran,Medak,Toopran,Aided,Rural,854,441,413,45,Yes,Yes,Yes,No,No,0,85.0,3.9,72,19.0
+TS486,Residential School Secunderabad,Hyderabad,Secunderabad,Aided,Urban,435,231,204,14,Yes,Yes,No,Yes,Yes,1,78.4,4.5,80,31.1
+TS487,KGBV Nirmal,Adilabad,Nirmal,Aided,Rural,1403,687,716,55,Yes,Yes,No,Yes,Yes,4,86.0,2.8,84,25.5
+TS488,Govt High School Hanamkonda,Warangal,Hanamkonda,Government,Rural,405,219,186,27,Yes,Yes,Yes,Yes,Yes,5,83.6,2.1,98,15.0
+TS489,ZPHS Chevella,Rangareddy,Chevella,Government,Urban,1069,498,571,21,Yes,Yes,Yes,Yes,Yes,7,75.0,3.5,100,50.9
+TS490,Residential School Shamshabad,Rangareddy,Shamshabad,Private,Urban,290,149,141,21,Yes,Yes,Yes,Yes,Yes,3,84.4,2.3,94,13.8
+TS491,Residential School Sangareddy,Medak,Sangareddy,Private,Urban,1245,581,664,27,Yes,Yes,Yes,Yes,Yes,5,91.8,1.0,98,46.1
+TS492,ZPHS Bheemgal,Nizamabad,Bheemgal,Private,Rural,347,168,179,25,Yes,Yes,Yes,Yes,No,10,96.6,1.0,95,13.9
+TS493,ZPHS Shamshabad,Rangareddy,Shamshabad,Aided,Rural,922,485,437,19,Yes,Yes,Yes,Yes,Yes,6,76.9,3.2,99,48.5
+TS494,Govt High School Wyra,Khammam,Wyra,Private,Rural,268,139,129,31,Yes,Yes,Yes,Yes,No,4,88.4,2.2,86,8.6
+TS495,Govt High School Chevella,Rangareddy,Chevella,Government,Rural,731,353,378,24,Yes,Yes,Yes,Yes,Yes,7,80.6,2.5,100,30.5
+TS496,ZPHS Bheemgal,Nizamabad,Bheemgal,Private,Rural,535,276,259,34,Yes,Yes,Yes,No,Yes,2,94.6,1.2,85,15.7
+TS497,MJPTBCWREIS Huzurabad,Karimnagar,Huzurabad,Aided,Urban,1340,648,692,14,Yes,Yes,Yes,Yes,Yes,3,96.9,1.0,94,95.7
+TS498,Govt High School Armoor,Nizamabad,Armoor,Government,Rural,1375,650,725,35,Yes,Yes,Yes,Yes,No,5,92.9,1.2,88,39.3
+TS499,ZPHS Miryalaguda,Nalgonda,Miryalaguda,Government,Rural,879,440,439,53,Yes,No,No,No,No,7,76.8,6.4,60,16.6
+TS500,Telangana Model School Hanamkonda,Warangal,Hanamkonda,Aided,Urban,420,202,218,49,Yes,No,Yes,Yes,Yes,10,77.4,3.5,95,8.6

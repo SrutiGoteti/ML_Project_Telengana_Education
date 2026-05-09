@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+google-generativeai
+streamlit-option-menu
+python-dotenv
+faker
+xgboost==2.0.3
