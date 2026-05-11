@@ -1,7 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import Sidebar from './components/layout/Sidebar';
 import Header from './components/layout/Header';
-import KPICards from './components/dashboard/KPICards';
 import RiskTable from './components/dashboard/RiskTable';
 import DistrictReports from './components/dashboard/DistrictReports';
 import SchoolSearch from './components/dashboard/SchoolSearch';
@@ -10,7 +9,9 @@ import Settings from './components/dashboard/Settings';
 import AIChatbot from './components/ai/AIChatbot';
 import { schoolsData } from './data/schoolsData';
 import { predictRisk } from './utils/mlEngine';
-import RiskDistributionChart from './components/dashboard/RiskDistributionChart';
+
+// IMPORT OUR NEW DASHBOARD COMPONENT
+import AnalyticsOverview from './components/dashboard/AnalyticsOverview'; 
 
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -24,12 +25,11 @@ function App() {
   // Process data through the ML Engine
   const processedSchools = useMemo(() => {
     return schoolsData.map(school => {
-      const teachersCount = school.teachers || 1; // Prevent division by zero
+      const teachersCount = school.teachers || 1; 
       const strValue = (school.students / teachersCount).toFixed(1);
 
       const mlResult = predictRisk({ ...school, str: strValue });
 
-      // Override category if it meets user threshold
       let finalCategory = mlResult.category;
       if (mlResult.score > riskThreshold) finalCategory = 'High';
 
@@ -53,25 +53,19 @@ function App() {
     setIsChatOpen(true);
   };
 
+  // CLEANED UP: Only ONE renderContent function here!
   const renderContent = () => {
     switch (activeTab) {
       case 'dashboard':
         return (
-          <>
-            <div style={{ display: 'grid', gridTemplateColumns: '1.5fr 1fr', gap: '2rem' }}>
-              <KPICards schools={processedSchools} />
-              <RiskDistributionChart schools={processedSchools} />
-            </div>
-            <RiskTable
-              schools={processedSchools}
-              onSelectSchool={handleSelectSchool}
-              selectedSchoolId={selectedSchool?.id}
-            />
-          </>
+          <div style={{ marginTop: '-1.5rem' }}>
+            <AnalyticsOverview />
+          </div>
         );
       case 'reports':
         return <DistrictReports schools={processedSchools} />;
       case 'search':
+        // This handles the Search, the Sliders, AND the Deep Dive Profile now!
         return <SchoolSearch schools={processedSchools} onSelectSchool={handleSelectSchool} />;
       case 'advisor':
         return <PolicyAdvisor selectedSchool={selectedSchool} apiKey={apiKey} />;
@@ -94,11 +88,15 @@ function App() {
       <Sidebar activeTab={activeTab} onNavigate={setActiveTab} />
 
       <main className="main-content">
-        <Header
-          title={activeTab === 'dashboard' ? "Dashboard" : activeTab.charAt(0).toUpperCase() + activeTab.slice(1).replace('-', ' ')}
-          subtitle="Real-time ML Risk Prediction & Policy Synthesis"
-        />
+        {/* Hide the default header ONLY on the dashboard */}
+        {activeTab !== 'dashboard' && (
+          <Header
+            title={activeTab.charAt(0).toUpperCase() + activeTab.slice(1).replace('-', ' ')}
+            subtitle="Real-time ML Risk Prediction & Policy Synthesis"
+          />
+        )}
 
+        {/* Just call the function once here to render the page */}
         {renderContent()}
       </main>
 
